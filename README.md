@@ -1,1 +1,20 @@
 # OCR-awesome
+
+## Papers & code
+- [Yao,   Cong.   "Detecting   texts   of   arbitrary   orientations   in   natural   images."IEEEConference on Computer Vision and Pattern RecognitionIEEE   Computer   Society,2012:1083-1090.](https://pan.baidu.com/s/1bTSlsE-8xsKMKN653JHQbg)
+- [Kang, Le, Y. Li, and D. Doermann. "Orientation Robust Text Line Detection in NaturalImages."IEEE   Conference   on   Computer   Vision   and   Pattern   RecognitionIEEE,2014:4034-4041.](https://pan.baidu.com/s/14wb5G0rl75edjlkuBA2e8g)
+- [Yin,   Xu   Cheng,   et   al.   "Multi-Orientation   Scene   Text   Detection   with   AdaptiveClustering."IEEE   Transactions   on   Pattern   Analysis   &   MachineIntelligence37.9(2015):1930.](https://pan.baidu.com/s/1KUzgJaBXoSAAB0CgeieNOA)
+- [Jaderberg,   Max,   et   al.   "Reading   Text   in   the   Wild   with   Convolutional   NeuralNetworks."International Journal of Computer Vision116.1(2016):1-20.](https://pan.baidu.com/s/1TJ1VFu4cD3tgQPNdp2IBqQ)
+- [Zhang,   Zheng,   et   al.   "Symmetry-based   text   line   detection   in   naturalscenes."Computer Vision and Pattern RecognitionIEEE, 2015:2558-2567.](https://pan.baidu.com/s/1rW8vyt32fkQrxJZLqZxvlw)
+- [Gupta, Ankush, Andrea Vedaldi, and Andrew Zisserman. "Synthetic data for textlocalisation in natural images."Proceedings of the IEEE Conference on Computer Visionand Pattern Recognition. 2016.](https://pan.baidu.com/s/1TtI0xajmrQlhYJ1y8KpD3A)
+- [Zhong, Zhuoyao, et al. "DeepText: A Unified Framework for Text Proposal Generationand Text Detection in Natural Images."Architecture Science(2015).](https://pan.baidu.com/s/1grID4XN-OOnvU6s4yaUOfQ)
+- [Tian, Zhi, et al.Detecting Text in Natural Image with Connectionist Text ProposalNetwork.Computer Vision – ECCV 2016. Springer International Publishing, 2016.](https://pan.baidu.com/s/1dxa6RsmN50VB67sE6fsqxA)
+- [Ma, Jianqi, et al. "Arbitrary-Oriented Scene Text Detection via Rotation Proposals."(2017).](https://pan.baidu.com/s/1EpC3qw15fLhLsb9vIlyl0A)
+- [Liu, Yuliang, and Lianwen Jin. "Deep matching prior network: Toward tighter multi-oriented text detection."arXiv preprint arXiv:1703.01425(2017).](https://pan.baidu.com/s/1Lb0gxqiFtKL1d_ewy2J9sQ)
+- [Zhang,   Zheng,   et   al.   "Multi-oriented   text   detection   with   fully   convolutionalnetworks."Proceedings of the IEEE Conference on Computer Vision and PatternRecognition. 2016.](https://pan.baidu.com/s/1vKzqaoApYAFyhVHrj0dcIw)
+- [Yao, Cong, et al. "Scene Text Detection via Holistic, Multi-Channel Prediction."arXivpreprint arXiv:1606.09002(2016).](https://pan.baidu.com/s/1XPmwNrmxOLcOmwkGLh5hKQ)
+- [Zhou, Xinyu, et al. "EAST: An Efficient and Accurate Scene Text Detector."arXivpreprint arXiv:1704.03155(2017).](https://pan.baidu.com/s/1uWEfayT1KKjxC8nCDn601Q)
+- [He,   Wenhao,   et   al.   "Deep   Direct   Regression   for   Multi-Oriented   Scene   TextDetection."arXiv preprint arXiv:1703.08289(2017).](https://pan.baidu.com/s/1ZUc6a2tbp4v3ulQpBTjZ7g)
+- [Liao, Minghui, et al. "TextBoxes: A Fast Text Detector with a Single Deep NeuralNetwork."arXiv preprint arXiv:1611.06779(2016).](https://pan.baidu.com/s/10G_nZGDtU-bs7sRWWdUyOA)
+- [CRNN: End-to-End Trainable Network for Scene Text Recognition.](https://arxiv.org/pdf/1507.05717.pdf)
+- [Shi, Baoguang, Xiang Bai, and Serge Belongie. "Detecting Oriented Text in NaturalImages by Linking Segments."arXiv preprint arXiv:1703.06520(2017).](https://pan.baidu.com/s/1yFzFHdH4O3_ERxf6UxyYdA)
